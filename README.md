@@ -1,4 +1,4 @@
-[Abstract](ABSTRACT)
+[Abstract](ABSTRACT.md)
 
 ## Agenda
 (coming soon)
