@@ -1,5 +1,4 @@
-[Abstract](ABSTRACT.md)
 
-## Agenda
-(coming soon)
-
+- [Proposal](ABSTRACT.md)
+- Agenda (coming soon)
+- Resources (coming soon)
