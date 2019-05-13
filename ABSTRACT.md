@@ -47,3 +47,53 @@ The last session is dedicated to hybrid methods for the identification, extracti
 
 ### Aldo Gangemi
 [Aldo Gangemi](https://www.unibo.it/sitoweb/aldo.gangemi/en) is full professor at University of Bologna, and associate researcher at Italian National Research Council, Rome. He has co-founded the Semantic Technology Lab (STLab) at ISTC-CNR. His research focuses on Semantic Technologies as an integration of methods from Knowledge Engineering, the Semantic Web, Linked Data, Cognitive Science, and Natural Language Processing. He has worked in many different domains, including Cultural Heritage, where he has designed ontologies and linked data (Luoghi della Cultura, ICCD’s ArCo) for the Italian Ministry of Cultural Heritage. He has published more than 250 papers in international peer-reviewed journals, conferences and books, and seats as EB member of international journals. He has worked in several EU projects related to LOD such as WonderWeb, Metokis, NeOn, and IKS.
+
+
+# References
+
+Adamou, Alessandro; d'Aquin, Mathieu; Barlow, Helen and Brown, Simon (2014). LED: curated and crowdsourced linked data on music listening experiences. In: Proceedings of the ISWC 2014 Posters & Demonstrations Track, CEUR Workshop Proceedings, CEUR-WS.org, pp. 93–96.
+
+Adamou, Alessandro, Enrico Daga, and Leif Isaksen (2016). Proceedings of the First Workshop on Humanities in the Semantic Web (WHiSe). CEUR Workshop Proceedings http://ceur-ws.org/Vol-1608/
+
+Alam, M., Recupero, D. R., Mongiovi, M., Gangemi, A., & Ristoski, P. (2017). Event-based knowledge reconciliation using frame embeddings and frame similarity. Knowledge-Based Systems, 135, 192-203.
+
+Bizer, C., Heath, T., & Berners-Lee, T. (2011). Linked data: The story so far. In Semantic services, interoperability and web applications: emerging concepts (pp. 205-227). IGI Global.
+
+Bojars, U. (2016). Case study: towards a linked digital collection of Latvian cultural heritage. In: Proceedings of the First Workshop on Humanities in the Semantic Web (WHiSe). CEUR Workshop Proceedings http://ceur-ws.org/Vol-1608/.
+
+Daga, E., Panziera, L., & Pedrinaci, C. (2015). A BASILar approach for building web APIs on top of SPARQL endpoints. In CEUR Workshop Proceedings (Vol. 1359, pp. 22-32).
+
+Daga, E., d’Aquin, M., Adamou, A., & Brown, S. (2016). The open university linked data –data.open.ac.uk. Semantic Web, 7(2), 183-191.
+
+Daquino, M., Daga, E., d'Aquin, M., Gangemi, A., Holland, S., Laney, R., Penuela, A.M., and Mulholland, P. (2017). Characterizing the landscape of musical data on the Web: State of the art and challenges. In Proceedings of the Second Workshop on Humanities in the Semantic Web (WHiSe). CEUR Workshop Proceedings http://ceur-ws.org/Vol-2014/.
+
+De Roure, D., Willcox, P., & Abdul-Rahman, A. (2016). On the description of process in digital scholarship. In: Proceedings of the First Workshop on Humanities in the Semantic Web (WHiSe). CEUR Workshop Proceedings http://ceur-ws.org/Vol-1608/.
+
+Piccinno, F., & Ferragina, P. (2014, July). From TagME to WAT: a new entity annotator. In Proceedings of the first international workshop on Entity recognition & disambiguation (pp. 55-62). ACM.
+
+Gangemi, A., & Presutti, V. (2009). Ontology design patterns. In Handbook on ontologies (pp. 221-243). Springer, Berlin, Heidelberg.
+
+Gangemi, A., Presutti, V., Reforgiato Recupero, D., Nuzzolese, A. G., Draicchio, F., & Mongiovì, M. (2017). Semantic web machine reading with FRED. Semantic Web, 8(6), 873-893.
+
+Heath, T., & Bizer, C. (2011). Linked data: Evolving the web into a global data space. Synthesis lectures on the semantic web: theory and technology, 1(1), 1-136.
+
+Hoekstra, R., Merono-Penuela, A., Dentler, K., Rijpma, A., Zijdeman, R., & Zandhuis, I. (2016, May). An ecosystem for linked humanities data. In European Semantic Web Conference (pp. 425-440). Springer, Cham.
+
+Haslhofer, B., & Isaac, A. (2011, September). data.europeana.eu: The europeana linked open data pilot. In International Conference on Dublin Core and Metadata Applications (pp. 94-104).
+
+Hyvönen, E. (2012). Publishing and using cultural heritage linked data on the semantic web. Synthesis Lectures on the Semantic Web: Theory and Technology, 2(1), 1-159.
+
+Isaksen, L., Simon, R., Barker, E. T., & de Soto Cañamares, P. (2014, June). Pelagios and the emerging graph of ancient world data. In Proceedings of the 2014 ACM conference on Web science (pp. 197-201). ACM.
+
+Leskinen, P., Tuominen, J., Heino, E., & Hyvönen, E. (2017, October). An Ontology and Data Infrastructure for Publishing and Using Biographical Linked Data. In Proceedings of the First Workshop on Humanities in the Semantic Web (WHiSe). CEUR Workshop Proceedings http://ceur-ws.org/Vol-1608/.
+
+Lodi, G., Asprino, L., Nuzzolese, A. G., Presutti, V., Gangemi, A., Recupero, D. R., ... & Orsini, A. (2017). Semantic Web for cultural heritage Valorisation. In Data Analytics in Digital Humanities (pp. 3-37). Springer, Cham.
+
+Mendes, P. N., Jakob, M., García-Silva, A., & Bizer, C. (2011, September). DBpedia spotlight: shedding light on the web of documents. In Proceedings of the 7th international conference on semantic systems (pp. 1-8). ACM.
+
+Nurmikko-Fuller, T., & Page, K. R. (2016). A linked research network that is Transforming Musicology. In Proceedings of the Second Workshop on Humanities in the Semantic Web (WHiSe). CEUR Workshop Proceedings http://ceur-ws.org/Vol-2014/ (pp. 73-78).
+
+Schöch, C. (2013). Big? smart? clean? messy? Data in the humanities. Journal of digital humanities, 2(3), 2-13.
+Volz, J., Bizer, C., Gaedke, M., & Kobilarov, G. (2009). Silk-a link discovery framework for the web of data. LDOW, 538.
+
+Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., ... & Bouwman, J. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3.
