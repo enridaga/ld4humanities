@@ -16,10 +16,9 @@ In the meantime, you can look at the [proposal](ABSTRACT.md).
 
 ## About the Organisers
 
-### Enrico Daga
 [Enrico Daga](http://kmi.open.ac.uk/people/member/enrico-daga) has a PhD in Artificial Intelligence and has carried out research on Web Semantics and Ontology Engineering since 2006, first at the Italian National Research Council (CNR) and then at the Knowledge Media Institute of The Open University in the UK, where he leads the OU Linked Data initiative (data.open.ac.uk). He has played key roles in R&D projects related to the development of intelligent systems for Ontology Engineering (NeOn) and Smart Cities (MK:Smart). Currently, he is exploring the application of knowledge-based methods to support scholarship in the humanities (e.g. the LED project). A former student of Music and Performing Arts (University RomaTRE), Enrico is founder and chair of the WHiSe Workshop on Humanities in the Semantic Web.
 
-### Aldo Gangemi
+
 [Aldo Gangemi](https://www.unibo.it/sitoweb/aldo.gangemi/en) is full professor at University of Bologna, and associate researcher at Italian National Research Council, Rome. He has co-founded the Semantic Technology Lab (STLab) at ISTC-CNR. His research focuses on Semantic Technologies as an integration of methods from Knowledge Engineering, the Semantic Web, Linked Data, Cognitive Science, and Natural Language Processing. He has worked in many different domains, including Cultural Heritage, where he has designed ontologies and linked data (Luoghi della Cultura, ICCD’s ArCo) for the Italian Ministry of Cultural Heritage. He has published more than 250 papers in international peer-reviewed journals, conferences and books, and seats as EB member of international journals. He has worked in several EU projects related to LOD such as WonderWeb, Metokis, NeOn, and IKS.
 
 
