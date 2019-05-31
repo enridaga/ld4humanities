@@ -10,9 +10,9 @@ The tutorial on LD methods and techniques has the following objectives:
 The tutorial will be organised in three sessions: 1) Linked Data in a nutshell; 2) Producing and consuming Linked Data; 3) Hybrid methods for working with texts and LD. The content will be tuned to accommodate a wide range of participants, spanning from the student that is curious to hear more about LD to the humanist hacker that looks for a robust toolkit to apply to her research. One output of the tutorial will be an openly accessible and persistent registry of reusable resources for developing linked humanities applications.  
 
 ## Agenda (under development)
-We are preparing the agenda for the day. If you plan to attend the tutorial, help us by completing [this form](https://forms.gle/hodNeJ6PhBWqFEkP7)
+We are preparing the agenda for the day. If you plan to attend the tutorial, help us by completing [this form](https://forms.gle/hodNeJ6PhBWqFEkP7).
 
-In the meantime, you can look at the [Proposal](ABSTRACT.md).
+In the meantime, you can look at the [proposal](ABSTRACT.md).
 
 ## About the Organisers
 
