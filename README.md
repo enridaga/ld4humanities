@@ -1,6 +1,6 @@
 Half-day Tutorial (4-hours) to be held at the [Digital Humanities Conference 2019](https://dh2019.adho.org) in Utrecht, 8th July 2019 from 14.00pm.
 
-The tutorial on LD methods and techniques, having the following objectives:
+The tutorial on LD methods and techniques has the following objectives:
 
 - To present the theoretical and technical foundations of Linked Data and introduce basic methods for data production and publishing to students, researchers, and practitioners.
 - To provide a reference collection of reusable approaches and techniques to boost an effective adoption of LD in DH projects.
