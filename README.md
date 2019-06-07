@@ -1,12 +1,12 @@
 Half-day Tutorial (4-hours) to be held at the [Digital Humanities Conference 2019](https://dh2019.adho.org) in Utrecht, 8th July 2019 from 14.00pm.
 
-***We are preparing the agenda for the day. If you plan to attend the tutorial, help us by completing this [this form](https://forms.gle/hodNeJ6PhBWqFEkP7).***
-
 The tutorial has the following objectives:
 
 - To present the theoretical and technical foundations of Linked Data and introduce basic methods for data production and publishing to students, researchers, and practitioners.
 - To provide a reference collection of reusable approaches and techniques to boost an effective adoption of LD in DH projects.
 - To showcase a set of innovative methods for extracting and linking data from texts.
+
+**We are preparing the agenda for the day. If you plan to attend the tutorial, help us by completing this [this form](https://forms.gle/hodNeJ6PhBWqFEkP7).**
 
 ## Contents and target audience
 The tutorial will be organised in three sessions: 1) Linked Data in a nutshell; 2) Producing and consuming Linked Data; 3) Hybrid methods for working with texts and LD. The content will be tuned to accommodate a wide range of participants, spanning from the student that is curious to hear more about LD to the humanist hacker that looks for a robust toolkit to apply to her research. One output of the tutorial will be an openly accessible and persistent registry of reusable resources for developing linked humanities applications.  
