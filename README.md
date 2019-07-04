@@ -9,7 +9,7 @@ The tutorial has the following objectives:
 **If you plan to attend the tutorial, help us tuning the content for the day by completing this [this form](https://forms.gle/hodNeJ6PhBWqFEkP7).**
 
 ## Contents and target audience
-The tutorial will be organised in three sessions: 1) Linked Data in a nutshell; 2) Producing and consuming Linked Data; 3) Hybrid methods for working with texts and LD. The content will be tuned to accommodate a wide range of participants, spanning from the student that is curious to hear more about LD to the humanist hacker that looks for a robust toolkit to apply to her research. One output of the tutorial will be an openly accessible and persistent registry of reusable resources for developing linked humanities applications.  
+The tutorial will be organised in four parts: 1) Linked Data in a nutshell; 2) Producing Linked Data; 3) Consuming Linked Data; and 4) Hybrid methods for working with LD. The content will be tuned to accommodate a wide range of participants, spanning from the student that is curious to hear more about LD to the humanist hacker that looks for a robust toolkit to apply to her research. One output of the tutorial will be an openly accessible and persistent registry of reusable resources for developing linked humanities applications.  
 
 You can read the full proposal [here](ABSTRACT.md).
 
