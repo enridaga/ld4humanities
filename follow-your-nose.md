@@ -14,7 +14,7 @@ curl -v http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart
 ```
 
 ```
-curl -v http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart -H “Accept: text/turtle”
+curl -v http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart -H "Accept: text/turtle"
 ```
 
 ```
@@ -22,7 +22,7 @@ curl -v http://dbpedia.org/data/Wolfgang_Amadeus_Mozart.ttl
 ```
 
 ```
-curl -v http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart -H “Accept: text/turtle” -L
+curl -v http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart -H "Accept: text/turtle" -L
 ```
 
 Find the answer to the following questions:
