@@ -257,6 +257,20 @@ DESCRIBE ?person  {
 } 
 ```
 
+```
+ # on http://data.open.ac.uk/sparql
+SELECT 
+  distinct ?type
+
+  FROM <http://data.open.ac.uk/context/youtube>
+  FROM <http://data.open.ac.uk/context/podcast>
+  FROM <http://data.open.ac.uk/context/openlearn>
+  FROM <http://data.open.ac.uk/context/course>
+  FROM <http://data.open.ac.uk/context/qualification>
+WHERE{
+  [] a ?type
+}
+```
 
 ======
 
