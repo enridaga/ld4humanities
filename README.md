@@ -33,6 +33,13 @@ Link to Google Maps: https://goo.gl/maps/Hgp2yBiwJTqLWTAN8
 
 If you plan to attend the tutorial, please complete [this form](https://forms.gle/hodNeJ6PhBWqFEkP7).
 
+## Hands-On resources
+
+ - (follow-your-nose.md)[Follow your nose]
+ - (from-a-data-table.md)[From a data table to RDF]
+ - (sparql.md) SPARQL 
+ - (topicality.md)[Hybrid method: find topics]
+ 
 ## About the Organisers
 
 [Enrico Daga](http://www.enridaga.net) has a PhD in Artificial Intelligence and has carried out research on Web Semantics and Ontology Engineering since 2006, first at the Italian National Research Council (CNR) and then at the Knowledge Media Institute of The Open University in the UK, where he leads the OU Linked Data initiative (data.open.ac.uk). He has played key roles in R&D projects related to the development of intelligent systems for Ontology Engineering (NeOn) and Smart Cities (MK:Smart). Currently, he is exploring the application of knowledge-based methods to support scholarship in the humanities (e.g. the LED project). A former student of Music and Performing Arts (University RomaTRE), Enrico is founder and chair of the WHiSe Workshop on Humanities in the Semantic Web.
