@@ -258,6 +258,7 @@ DESCRIBE ?person  {
 ```
 
 ```
+ # Query. 15
  # on http://data.open.ac.uk/sparql
 SELECT 
   distinct ?type
@@ -270,6 +271,25 @@ SELECT
 WHERE{
   [] a ?type
 }
+```
+
+```
+# Query. 16
+
+# Search in multiple Graphs
+
+SELECT 
+  distinct ?g ?type
+
+  FROM NAMED <http://data.open.ac.uk/context/youtube>
+  FROM NAMED <http://data.open.ac.uk/context/podcast>
+  FROM NAMED <http://data.open.ac.uk/context/openlearn>
+  FROM NAMED <http://data.open.ac.uk/context/course>
+  FROM NAMED <http://data.open.ac.uk/context/qualification>
+WHERE{
+ GRAPH ?g { [] a ?type }
+}
+
 ```
 
 ======
