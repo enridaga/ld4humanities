@@ -35,10 +35,10 @@ If you plan to attend the tutorial, please complete [this form](https://forms.gl
 
 ## Hands-On resources
 
- - [follow-your-nose.md](Follow your nose)
- - [from-a-data-table.md](From a data table to RDF)
- - [sparql.md](SPARQL)
- - [topicality.md](Hybrid method: find topics)
+ - [Follow your nose](follow-your-nose.md)
+ - [From a data table to RDF](from-a-data-table.md)
+ - [SPARQL](sparql.md)
+ - [Hybrid method: find topics](topicality.md)
  
 ## About the Organisers
 
