@@ -10,7 +10,7 @@
  - Download as TSV
  
 
-Create a new Google Spreadsheet at follow me :)
+You can create a new Google Spreadsheet and follow what I do or just watch :)
  
 [LINK](https://docs.google.com/spreadsheets/d/1j_LHZIOhkbD61r7fSxuf4017tgbOoL_Z6tLT0oDQz_0)
 
