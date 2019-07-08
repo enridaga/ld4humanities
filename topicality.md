@@ -1,4 +1,4 @@
-# Hands-On: Topicality
+# Hands-On: Find topics
 
 A piece of news from the Guardian: `https://www.theguardian.com/education/2019/jul/05/uk-universities-condemned-for-failure-to-tackle-racism`
 
@@ -12,7 +12,7 @@ Scores of black and minority ethnic students and lecturers have told the Guardia
 ```
 
 Named Entity Recognition with DBpedia Spotlight:
-(https://www.dbpedia-spotlight.org/demo/)[https://www.dbpedia-spotlight.org/demo/]
+[https://www.dbpedia-spotlight.org/demo/](https://www.dbpedia-spotlight.org/demo/)
 
 Entities retrieved:
 ```
